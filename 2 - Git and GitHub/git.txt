@@ -16,3 +16,12 @@ git initialized
 git add . 
 
 //git comit - m "Message"
+
+//Add a branch to our reporitory
+git branch "fristbranch" 
+
+//list of all the branches
+git branch -addgit checkout fristbranch
+
+//switching to a different branch 
+git checkout fristbranch
